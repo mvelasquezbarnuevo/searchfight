@@ -24,8 +24,8 @@ namespace Mvelasquez.Searchfight.ConsolePrg
 
         public void Start(List<string> args)
         {
-            args = new List<string>();
-            args.Add(".net");
+            //args = new List<string>();
+            //args.Add(".net");
             //args.Add("java");
 
             _screen.ShowTitle();
