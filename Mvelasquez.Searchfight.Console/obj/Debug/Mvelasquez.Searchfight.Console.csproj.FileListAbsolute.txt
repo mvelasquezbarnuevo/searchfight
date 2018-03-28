@@ -1,0 +1,12 @@
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\bin\Debug\Mvelasquez.Searchfight.Console.exe.config
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\bin\Debug\Mvelasquez.Searchfight.Console.exe
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\bin\Debug\Mvelasquez.Searchfight.Console.pdb
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\bin\Debug\Mvelasquez.Searchfight.Core.dll
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\bin\Debug\SimpleInjector.dll
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\bin\Debug\Mvelasquez.Common.dll
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\bin\Debug\Mvelasquez.Searchfight.Core.pdb
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\bin\Debug\SimpleInjector.xml
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\bin\Debug\Mvelasquez.Common.pdb
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\obj\Debug\Mvelasquez.Searchfight.Console.csprojResolveAssemblyReference.cache
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\obj\Debug\Mvelasquez.Searchfight.Console.exe
+C:\source\Mvelasquez.Searchfight.Console\Mvelasquez.Searchfight.Console\obj\Debug\Mvelasquez.Searchfight.Console.pdb
